@@ -1,7 +1,8 @@
 ### Hello 👋
-- 🪐 Programador De JavaScript
+- 🪐 Programador De JavaScript, JavaBukkit
 - 📌 Scripts de Raid,Spam e Flood
-- ✨ Discord: Thiago1520#7757
+- 📌 Plugins de Minecraft
+- ✨ Discord: Thiago1520#0279
 <img src="https://media.discordapp.net/attachments/783646767451340830/795873299602604032/download_1.gif">
 <!--
 **vyxt/vyxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
