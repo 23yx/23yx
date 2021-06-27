@@ -1,5 +1,5 @@
 ### Hello 👋
-- 🪐 Programador De JavaScript, JavaBukkit
+- 🪐 Programador De JavaScript
 - 📌 Scripts de Raid,Spam e Flood
 - 📌 Plugins de Minecraft
 - ✨ Discord: Thiago1520#0279
