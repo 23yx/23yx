@@ -3,5 +3,5 @@
 - 📌 Scripts de Spam
 - 📌 Grabbers Executaveis (.exe)
 - ✨ Discord: Thiago1520#0279
-<img src="https://media.discordapp.net/attachments/783646767451340830/795873299602604032/download_1.gif">
+<img src="https://i.pinimg.com/originals/b8/a3/cd/b8a3cd1fad69ee87b4a843ca7769f49a.gif">
 <!--
