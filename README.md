@@ -32,5 +32,6 @@ Meu nome é Thiago e sou [CEO DO PRISMAMC], minha linguagem de programação fav
 <details>
   <summary> <b> Mais sobre mim </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
+<li><em>Me Adiciona no Discord Que Te Conto Mais Sobre Mim!</em></li>
     </a>
   </p>
