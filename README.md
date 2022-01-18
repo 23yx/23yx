@@ -13,7 +13,7 @@
 
 Meu nome é Thiago e sou [CEO DO PRISMAMC], minha linguagem de programação favorita é Java.
 
-<h3>💻 <em>Langs</em></h3>
+<h3>💻 <em>Linguagens De Programação</em></h3>
 <blockquote>
   <ul>
     <li><em>Java</em></li>
