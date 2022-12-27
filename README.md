@@ -1,12 +1,4 @@
-# Thiago1520 - O Brabo
-
-<p>
-<img src= "https://blog.cod3r.com.br/wp-content/uploads/2020/10/Code-Photography-Images-08-950x500.jpg"/>
-</p>
-
-- [ 💬 ] Discord: Thiago1520#0279
-
-Meu nome é Thiago e sou [CEO DO PRISMAMC], minha linguagem de programação favorita é Java.
+<h1 align="center">Thiago1520<br><br>O BRABOOO</h1>
 
 <h3>💻 <em>Linguagens De Programação</em></h3>
 <blockquote>
@@ -17,16 +9,14 @@ Meu nome é Thiago e sou [CEO DO PRISMAMC], minha linguagem de programação fav
   </ul>
 </blockquote>
 
-<br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="ShellScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+</div>
 
-<img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-
-</br>
----
-
-<details>
-  <summary> <b> Mais sobre mim </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
-<li><em>Me Adiciona no Discord Que Te Conto Mais Sobre Mim!</em></li>
-    </a>
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago1520&show_icons=true&theme=radical"><br>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiago1520&show_icons=true&theme=radical"> 
+</p>
