@@ -1,4 +1,4 @@
-<h1 align="center">Thiago1520<br><br>O BRABOOO</h1>
+<h1 align="center">Thiago1520 - O BRABOOO<br>Um Desenvolvedor Qualquer<br></h1>
 
 <h3>💻 <em>Linguagens De Programação</em></h3>
 <blockquote>
