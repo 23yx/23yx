@@ -24,7 +24,7 @@ Meu nome é Thiago e sou [CEO DO PRISMAMC], minha linguagem de programação fav
 
 <br>
 
-<img src="https://c.tenor.com/-n4k63Qsk-4AAAAM/anonymous-hacker.gif" width="300">
+<img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 
 </br>
 ---
