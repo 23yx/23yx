@@ -17,6 +17,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago1520&show_icons=true&theme=radical"><br>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiago1520&show_icons=true&theme=radical"> 
+  <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp"><br>
 </p>
