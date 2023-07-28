@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=30" />
+<img width="100%" src="https://media.istockphoto.com/id/923729070/photo/glowing-blue-binary-code-matrix-background-wide-banner.jpg?s=612x612&w=0&k=20&c=mx7v8HltfZLWB1Ud1eQMlQdg0Nga-amb-gFHxDI041I=" />
 
 <h3 align="center">Sobre Mim</h3>
 <div align="center">
