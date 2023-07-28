@@ -1,21 +1,26 @@
-<h1 align="center">Thiago1520 - O BRABOOO<br>Um Desenvolvedor Qualquer<br></h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24" />
 
-<h3>💻 <em>Linguagens De Programação</em></h3>
-<blockquote>
-  <ul>
-    <li><em>Java</em></li>
-    <li><em>Python</em></li>
-    <li><em>JavaScript</em></li>
-  </ul>
-</blockquote>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="ShellScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+<h3 align="center">Sobre Mim</h3>
+<div align="center">
+Um cara qualquer que gosta de programação e faz projetos para passaro tempo <br>
 </div>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp"><br>
-</p>
+<h3 align="center">Linguagens</h3>
+<div align="center" style="margin-top: 10px">
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,css,html&theme=dark" />
+</div>
+
+<h3 align="center">Programas</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" />
+</div>
+
+<h3 align="center">Databases</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,sqlite,mysql&theme=dark" />
+</div>
+
+<h3 align="center">Ferramentas</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ps,pr,ae,&theme=dark" />
+</div>
