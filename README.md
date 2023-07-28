@@ -17,7 +17,7 @@ Um cara qualquer que gosta de programação e faz projetos para passaro tempo <b
 
 <h3 align="center">Databases</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,sqlite,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=redis,mongodb&theme=dark" />
 </div>
 
 <h3 align="center">Ferramentas</h3>
