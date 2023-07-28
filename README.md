@@ -22,5 +22,5 @@ Um cara qualquer que gosta de programação e faz projetos para passaro tempo <b
 
 <h3 align="center">Ferramentas</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ps,pr,ae,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ps,ae&theme=dark" />
 </div>
