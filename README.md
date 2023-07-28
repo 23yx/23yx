@@ -10,7 +10,7 @@ Um cara qualquer que gosta de programação e faz projetos para passaro tempo <b
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,css,html&theme=dark" />
 </div>
 
-<h3 align="center">Programas</h3>
+<h3 align="center">IDEs</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" />
 </div>
