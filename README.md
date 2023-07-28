@@ -2,7 +2,7 @@
 
 <h3 align="center">Sobre Mim</h3>
 <div align="center">
-Um cara qualquer que gosta de programação e faz projetos para passaro tempo <br>
+Um cara qualquer que gosta de programação e faz projetos para passar o tempo. <br>
 </div>
 
 <h3 align="center">Linguagens</h3>
