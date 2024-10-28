@@ -1,4 +1,4 @@
-[<img align="center" alt="23yx" src="https://media.discordapp.net/attachments/1285033718028697776/1300586816784568442/bannertest.png?ex=6721615c&is=67200fdc&hm=ce29142098724a7b76cf989ae215a76c67d3d090b7d6d45832e16874831c3946&=&format=webp&quality=lossless&width=1440&height=560" />][website]
+[<img align="center" alt="23yx" src="https://media.discordapp.net/attachments/1285033718028697776/1300588415171166309/bannerrrr_novo.png?ex=672162d9&is=67201159&hm=a7b951ab0bef990e420a3a50aff188a8372aefec6169bae676b6c809d7fccdbb&=&format=webp&quality=lossless&width=1440&height=560" />][website]
 <a href="https://www.github.com/xevaly" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/23yx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
